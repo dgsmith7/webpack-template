@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+div {
+    color: red;
+    background: url('./1.png');
+    width: 250px;
+    height: 250px;
+
+}
